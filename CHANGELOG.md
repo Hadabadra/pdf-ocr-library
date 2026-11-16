@@ -1,5 +1,8 @@
 # CHANGELOG — ספריית PDF+OCR
 
+> **⏸ הפיתוח מושהה (מ-16.11.2026 עד ~מאי 2027).** לא יוצאות גרסאות חדשות בתקופה הזו. אפשר להמשיך לשלוח דיווחים ובקשות לפיצ'רים — הם נשמרים ב-Issues ויטופלו בחזרה.
+> **מחכים למי שרוצה להמשיך בפיתוח!** קוד המקור: https://github.com/Hadabadra/pdf-ocr-library · בקשת הצטרפות לפיתוח: https://github.com/Hadabadra/pdf-ocr-library/issues/new?title=%D7%91%D7%A7%D7%A9%D7%AA%20%D7%94%D7%A6%D7%98%D7%A8%D7%A4%D7%95%D7%AA%20%D7%9C%D7%A4%D7%99%D7%AA%D7%95%D7%97
+
 > ⏸ **מושהה עד ~מאי 2027.** גרסה אחרונה: 4.1.0 (stable). אין פניות פתוחות. תחום ה-PDF בטיפול השותף אריה — ראו Hadabadra/pdf-viewer docs/HANDOFF-ARYE.md.
 
 ## 4.1.0
